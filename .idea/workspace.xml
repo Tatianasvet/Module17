@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6d74bae-fe9d-48fc-acfb-966c05efec65" name="Changes" comment="app2">
-      <change afterPath="$PROJECT_DIR$/app/backend/db_depends.py" afterDir="false" />
+    <list default="true" id="a6d74bae-fe9d-48fc-acfb-966c05efec65" name="Changes" comment="app3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routers/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taskmanager.db" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,13 +105,22 @@
       <option name="project" value="LOCAL" />
       <updated>1728149878735</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="app3">
+      <option name="closed" value="true" />
+      <created>1728313656731</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728313656731</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shop" />
     <MESSAGE value="app" />
     <MESSAGE value="app2" />
-    <option name="LAST_COMMIT_MESSAGE" value="app2" />
+    <MESSAGE value="app3" />
+    <option name="LAST_COMMIT_MESSAGE" value="app3" />
   </component>
 </project>

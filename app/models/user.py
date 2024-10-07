@@ -12,4 +12,4 @@ class User(Base):
     lastname = Column(String)
     age = Column(Integer)
     slug = Column(String, unique=True, index=True)
-    tasks = relationship(argument='Task', back_populates='users')
+    tasks = relationship(argument='Task', back_populates='user')
