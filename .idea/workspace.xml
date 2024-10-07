@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6d74bae-fe9d-48fc-acfb-966c05efec65" name="Changes" comment="app">
-      <change afterPath="$PROJECT_DIR$/alembic.ini" afterDir="false" />
+    <list default="true" id="a6d74bae-fe9d-48fc-acfb-966c05efec65" name="Changes" comment="app2">
       <change afterPath="$PROJECT_DIR$/app/backend/db_depends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/script.py.mako" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/migrations/versions/31eeb179232f_initial_migration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taskmanager.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/backend/bd.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/backend/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/routers/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/schemas.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/schemas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taskmanager.db" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,12 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728064208608</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="app2">
+      <option name="closed" value="true" />
+      <created>1728149878735</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728149878735</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shop" />
     <MESSAGE value="app" />
-    <option name="LAST_COMMIT_MESSAGE" value="app" />
+    <MESSAGE value="app2" />
+    <option name="LAST_COMMIT_MESSAGE" value="app2" />
   </component>
 </project>
