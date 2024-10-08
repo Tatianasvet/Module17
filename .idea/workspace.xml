@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6d74bae-fe9d-48fc-acfb-966c05efec65" name="Changes" comment="app3">
+    <list default="true" id="a6d74bae-fe9d-48fc-acfb-966c05efec65" name="Changes" comment="app4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/models/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routers/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routers/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routers/user.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/taskmanager.db" beforeDir="false" afterPath="$PROJECT_DIR$/taskmanager.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728313656731</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="app4">
+      <option name="closed" value="true" />
+      <created>1728323598147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728323598147</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +130,7 @@
     <MESSAGE value="app" />
     <MESSAGE value="app2" />
     <MESSAGE value="app3" />
-    <option name="LAST_COMMIT_MESSAGE" value="app3" />
+    <MESSAGE value="app4" />
+    <option name="LAST_COMMIT_MESSAGE" value="app4" />
   </component>
 </project>
